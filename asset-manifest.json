@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eventechs-website/static/css/main.bb6deede.chunk.css",
-    "main.js": "/eventechs-website/static/js/main.c63d59d0.chunk.js",
-    "main.js.map": "/eventechs-website/static/js/main.c63d59d0.chunk.js.map",
+    "main.js": "/eventechs-website/static/js/main.291d6fcd.chunk.js",
+    "main.js.map": "/eventechs-website/static/js/main.291d6fcd.chunk.js.map",
     "runtime-main.js": "/eventechs-website/static/js/runtime-main.48dc5537.js",
     "runtime-main.js.map": "/eventechs-website/static/js/runtime-main.48dc5537.js.map",
     "static/js/2.7140c426.chunk.js": "/eventechs-website/static/js/2.7140c426.chunk.js",
     "static/js/2.7140c426.chunk.js.map": "/eventechs-website/static/js/2.7140c426.chunk.js.map",
     "index.html": "/eventechs-website/index.html",
-    "precache-manifest.7011a203070f2f47e58836ddc5d4c0e6.js": "/eventechs-website/precache-manifest.7011a203070f2f47e58836ddc5d4c0e6.js",
+    "precache-manifest.d68478921f57de00f95aa8f3229c3eaf.js": "/eventechs-website/precache-manifest.d68478921f57de00f95aa8f3229c3eaf.js",
     "service-worker.js": "/eventechs-website/service-worker.js",
     "static/css/main.bb6deede.chunk.css.map": "/eventechs-website/static/css/main.bb6deede.chunk.css.map",
     "static/js/2.7140c426.chunk.js.LICENSE.txt": "/eventechs-website/static/js/2.7140c426.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.48dc5537.js",
     "static/js/2.7140c426.chunk.js",
     "static/css/main.bb6deede.chunk.css",
-    "static/js/main.c63d59d0.chunk.js"
+    "static/js/main.291d6fcd.chunk.js"
   ]
 }
