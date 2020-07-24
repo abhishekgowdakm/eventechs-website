@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eventechs-website/home/precache-manifest.5611e492cbc066eadd7be16812b69e64.js"
+  "/eventechs-website/home/precache-manifest.85bdd0ffad6fa467ebba652b82db698b.js"
 );
 
 self.addEventListener('message', (event) => {

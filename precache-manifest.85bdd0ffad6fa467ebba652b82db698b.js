@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a45f5c8e746098ab45e35de11d911832",
+    "revision": "65a9e4853632bf9ba5f3a207eaf26d97",
     "url": "/eventechs-website/home/index.html"
   },
   {
-    "revision": "377b4d73accd8e5d18cf",
+    "revision": "bedf8ee45f1250aa96f2",
     "url": "/eventechs-website/home/static/css/main.5781b311.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eventechs-website/home/static/js/2.7140c426.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "377b4d73accd8e5d18cf",
-    "url": "/eventechs-website/home/static/js/main.afd730d5.chunk.js"
+    "revision": "bedf8ee45f1250aa96f2",
+    "url": "/eventechs-website/home/static/js/main.ce79e65f.chunk.js"
   },
   {
     "revision": "3af4b4a4b2e38923e92d",
